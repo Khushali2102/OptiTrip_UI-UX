@@ -1,5 +1,8 @@
 # 🌍 OPTI-TRIP: Comprehensive Travel Planning APP
 
+## 🧪 Link for the Project Report
+- [Click here for Opti-Trip Project Report](https://0110.bitdocs.ai/share/d/RiOlH64nWKZoDnBY)
+
 ## 📖 Project Description and Requirements
 
 ### 🌟 Project Description
